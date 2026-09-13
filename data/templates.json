@@ -1,0 +1,298 @@
+{
+  "_comment": "Linha editorial: jornalismo de tecnologia, direto, sem sarcasmo. Estrutura: gancho viral -> pedido para seguir -> contexto -> desenvolvimento -> virada -> na pratica -> pergunta -> fechamento. Slots: {t} titulo curto, {e} entidade, {subject}, {year}, {years_ago}, {source}, {hook}, {n} numero forte.",
+  "hooks": {
+    "tech_news": [
+      "Isso pode mudar o que você paga pelo seu celular.",
+      "A {e} tomou uma decisão que afeta milhões de pessoas. E quase ninguém explicou direito.",
+      "Você precisa saber disso antes de atualizar o seu celular.",
+      "{t}. E o detalhe que ninguém está contando muda tudo.",
+      "Presta atenção, porque isso vai chegar no seu bolso: {t}.",
+      "Tem uma notícia de tecnologia hoje que merece explicação. {t}."
+    ],
+    "story": [
+      "Isso não era para acontecer. E aconteceu com a {e}.",
+      "{t}. O que deu errado, e o que isso ensina.",
+      "Um erro que expôs uma falha grave. E você pode estar exposto também.",
+      "{t}. Eu fui atrás do que realmente aconteceu."
+    ],
+    "curiosity": [
+      "Você sabia que {hook}?",
+      "Poucas pessoas sabem disso: {hook}.",
+      "Isso parece mentira, mas está documentado: {hook}."
+    ],
+    "history": [
+      "Neste dia, em {year}, aconteceu algo que você usa até hoje sem saber.",
+      "Há {years_ago} anos, hoje, a tecnologia deu um passo que mudou a sua rotina.",
+      "Hoje é aniversário de um momento que a maioria das pessoas nunca ouviu falar. E deveria."
+    ],
+    "prediction": [
+      "Eu peguei os números de {source} e projetei o futuro de {subject}. O resultado assusta.",
+      "Ninguém está olhando para este número. E ele mostra o futuro de {subject}.",
+      "Se a tendência continuar, {subject} vai mudar de tamanho até {year}. Olha os dados."
+    ],
+    "theory": [
+      "Tem gente que jura que {hook}. Hoje eu fui atrás dos fatos.",
+      "Você já ouviu que {hook}? Vamos separar o que é verdade do que é boato.",
+      "Uma das teorias mais compartilhadas sobre tecnologia é essa: {hook}. Ela se sustenta?"
+    ]
+  },
+  "follow": [
+    "Ah, rapidinho: segue o perfil aí, e vamos lá.",
+    "Antes de continuar, segue o perfil, é um toque só.",
+    "Já aproveita e segue o perfil, rapidinho, que vem coisa.",
+    "Segue o perfil aí, rapidinho, e continua comigo."
+  ],
+  "context": {
+    "tech_news": [
+      "O caso é o seguinte: {t}.",
+      "Vamos do começo. {t}."
+    ],
+    "story": [
+      "Vamos do começo. {t}.",
+      "O que aconteceu: {t}."
+    ],
+    "history": [
+      "Em {year}, {event}"
+    ],
+    "prediction": [
+      "Estamos falando de {subject}. Os dados são de {source}, e eu vou mostrar ano a ano."
+    ],
+    "theory": [
+      "A teoria diz o seguinte: {hook}."
+    ]
+  },
+  "twists": [
+    "Mas tem um detalhe que muda a leitura da história.",
+    "Só que a parte mais importante vem agora.",
+    "E aqui entra o ponto que quase ninguém comentou.",
+    "Agora, o dado que explica tudo isso."
+  ],
+  "impact": [
+    {
+      "keys": [
+        "r$",
+        "us$",
+        "custa",
+        "preço",
+        "preco",
+        "caro",
+        "reais",
+        "dólares",
+        "dolares",
+        "valor"
+      ],
+      "text": "Na prática, o preço final tende a subir para o consumidor, e o mercado costuma reagir com descontos semanas depois. Se você pretende comprar, comparar antes faz diferença.",
+      "punch": "NA PRÁTICA",
+      "question": "Você pagaria esse valor? Comenta aqui."
+    },
+    {
+      "keys": [
+        "inteligência artificial",
+        "inteligencia artificial",
+        " ia ",
+        "chatgpt",
+        "gemini",
+        "copilot",
+        "openai",
+        "modelo de linguagem",
+        "assistente"
+      ],
+      "text": "Na prática, isso acelera a chegada da inteligência artificial em ferramentas que você já usa. O ganho é velocidade; o risco é confiar sem conferir.",
+      "punch": "NA PRÁTICA",
+      "question": "Você confiaria nisso no seu trabalho? Comenta."
+    },
+    {
+      "keys": [
+        "atualização",
+        "atualizacao",
+        "update",
+        "versão",
+        "versao",
+        "beta"
+      ],
+      "text": "Na prática, vale atualizar, mas esperar alguns dias e ler os relatos de quem já instalou. Atualização grande costuma vir com correção logo depois.",
+      "punch": "NA PRÁTICA",
+      "question": "Você atualiza no dia ou espera? Comenta."
+    },
+    {
+      "keys": [
+        "vazamento",
+        "vazou",
+        "vaza",
+        "exposto",
+        "expostos",
+        "dados de",
+        "dados pessoais"
+      ],
+      "text": "Na prática, se você tem conta nesse serviço, troque a senha hoje e ative a verificação em duas etapas. Vazamento circula por anos depois de acontecer.",
+      "punch": "TROQUE A SENHA",
+      "question": "Você já teve dado vazado? Comenta."
+    },
+    {
+      "keys": [
+        "demiss",
+        "demite",
+        "corte de",
+        "cortou",
+        "layoff",
+        "desliga"
+      ],
+      "text": "Na prática, isso mostra para onde o mercado de tecnologia está indo: menos gente, mais automação. Quem trabalha na área precisa acompanhar de perto.",
+      "punch": "NA PRÁTICA",
+      "question": "Você acha que a sua área está segura? Comenta."
+    },
+    {
+      "keys": [
+        "assinatura",
+        "mensalidade",
+        "plano",
+        "por mês",
+        "por mes",
+        "premium"
+      ],
+      "text": "Na prática, é mais uma cobrança recorrente. Antes de assinar, some o que você já paga por mês em serviços digitais. O número costuma surpreender.",
+      "punch": "NA PRÁTICA",
+      "question": "Quantas assinaturas você paga hoje? Comenta."
+    },
+    {
+      "keys": [
+        "bateria",
+        "carrega",
+        "autonomia"
+      ],
+      "text": "Na prática, autonomia anunciada é medida em laboratório. No uso real, com tela no máximo e 5G, o número cai bastante.",
+      "punch": "USO REAL",
+      "question": "Sua bateria dura o dia? Comenta."
+    },
+    {
+      "keys": [
+        "privacidade",
+        "rastre",
+        "escuta",
+        "espion",
+        "vigil",
+        "câmera",
+        "camera",
+        "microfone"
+      ],
+      "text": "Na prática, o controle está nas permissões do aparelho. Vale abrir as configurações e revogar o que não faz sentido para aquele aplicativo.",
+      "punch": "PERMISSÕES",
+      "question": "Você revisa as permissões dos seus apps? Comenta."
+    },
+    {
+      "keys": [
+        "processo",
+        "processa",
+        "multa",
+        "tribunal",
+        "justiça",
+        "justica",
+        "condena",
+        "regulament",
+        "anatel",
+        "governo"
+      ],
+      "text": "Na prática, decisões assim demoram, mas mudam o produto que chega para o consumidor. É por isso que vale acompanhar mesmo parecendo distante.",
+      "punch": "NA PRÁTICA",
+      "question": "Você acha que a punição foi justa? Comenta."
+    },
+    {
+      "keys": [
+        "fora do ar",
+        "instab",
+        "falha",
+        "bug",
+        "travou",
+        "caiu",
+        "pane",
+        "apagão",
+        "apagao"
+      ],
+      "text": "Na prática, se você depende desse serviço para trabalhar, precisa de um plano B. Falha em serviço grande não é exceção, é rotina.",
+      "punch": "PLANO B",
+      "question": "Você foi afetado? Comenta."
+    },
+    {
+      "keys": [
+        "golpe",
+        "fraude",
+        "phishing",
+        "clonad"
+      ],
+      "text": "Na prática, a regra é simples: ninguém sério pede senha, código ou pagamento por mensagem. Na dúvida, não clica e confirma por outro canal.",
+      "punch": "NÃO CLICA",
+      "question": "Você conhece alguém que caiu nesse golpe? Comenta."
+    },
+    {
+      "keys": [
+        "hacker",
+        "ataque",
+        "invas",
+        "ransomware",
+        "malware",
+        "vírus",
+        "virus"
+      ],
+      "text": "Na prática, o que protege você é o básico bem feito: backup atualizado, sistema atualizado e verificação em duas etapas nas contas principais.",
+      "punch": "O BÁSICO",
+      "question": "Você faz backup? Comenta."
+    },
+    {
+      "keys": [
+        "lança",
+        "lanca",
+        "anuncia",
+        "apresenta",
+        "revela",
+        "novo",
+        "nova",
+        "chega"
+      ],
+      "text": "Na prática, todo lançamento assim empurra o preço dos modelos anteriores para baixo. Para quem não precisa do último, é a melhor hora de comprar o penúltimo.",
+      "punch": "NA PRÁTICA",
+      "question": "Você trocaria de aparelho por isso? Comenta."
+    },
+    {
+      "keys": [
+        "*"
+      ],
+      "text": "Na prática, isso muda a forma como o produto chega até você. Vale acompanhar os próximos capítulos, porque a decisão de hoje define o preço de amanhã.",
+      "punch": "NA PRÁTICA",
+      "question": "O que você acha disso? Comenta aqui."
+    }
+  ],
+  "curiosity_lines": {
+    "question": [
+      "Você conhecia essa história? Comenta aqui.",
+      "Comenta se você já sabia dessa."
+    ]
+  },
+  "history_lines": {
+    "years_ago": "Isso foi há {years_ago} anos.",
+    "takeaway": "Hoje parece óbvio. Na época, era uma aposta cara e incerta. É assim que a tecnologia avança: em passos que só fazem sentido depois.",
+    "question": "Você sabia dessa? Comenta aqui."
+  },
+  "prediction_lines": {
+    "point_first": "Em {year}: {value}.",
+    "point_mid": "Em {year}, já eram {value}.",
+    "point_last": "Em {year}: {value}.",
+    "growth": "{growth}",
+    "caveat": "É projeção matemática em cima da tendência, não certeza. Mas a curva mostra a direção.",
+    "question": "Você acha que essa curva continua? Comenta."
+  },
+  "theory_lines": {
+    "origin": "De onde veio: {origin}",
+    "verdict_intro": "Então, faz sentido em {year}?",
+    "question": "Você acredita nessa? Comenta o que você acha."
+  },
+  "closers": [
+    "Se esse assunto te interessa, salva o vídeo. Hoje ainda tem mais história dessas.",
+    "Comenta o que você acha, que hoje ainda sai mais um vídeo.",
+    "Salva esse vídeo, que daqui a pouco tem mais."
+  ],
+  "cta_screen": [
+    "segue o perfil",
+    "segue aí",
+    "segue, rapidinho"
+  ]
+}

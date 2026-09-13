@@ -1,0 +1,1452 @@
+{
+ "_comment": "Curiosidades de T.I. verificadas. hook completa 'Voce sabia que ...?'. context = 1-2 frases de cenario; body = 3 fatos; takeaway = por que importa hoje. image_queries em ordem de preferencia (Wikipedia/Commons).",
+ "facts": [
+  {
+   "id": "mariposa-bug",
+   "subject": "o bug da mariposa",
+   "year": 1947,
+   "hook": "em 1947 acharam uma mariposa de verdade dentro de um computador",
+   "context": "Em 1947, o Harvard Mark 2 ocupava uma sala inteira e fazia contas com relés eletromecânicos, chaves que abriam e fechavam fisicamente. Uma soma levava um oitavo de segundo.",
+   "body": [
+    "Em 9 de setembro, os engenheiros que operavam a máquina acharam uma mariposa presa num relé. Grace Hopper fazia parte desse time.",
+    "O inseto foi colado no caderno de registro com a anotação: primeiro caso real de bug encontrado.",
+    "A piada só funcionava porque engenheiros já chamavam defeito de bug. Thomas Edison usava a palavra em 1878."
+   ],
+   "takeaway": "Até hoje, procurar defeitos em software se chama debugging. O caderno com a mariposa faz parte do acervo do Museu Nacional de História Americana, do Smithsonian, nos Estados Unidos.",
+   "image_queries": [
+    "First Computer Bug 1947",
+    "Grace Hopper",
+    "Thomas Edison"
+   ],
+   "source": "Smithsonian National Museum of American History / Naval History and Heritage Command",
+   "sources": [
+    {
+     "name": "JSTOR Daily - The Bug in the Computer Bug Story",
+     "url": "https://daily.jstor.org/the-bug-in-the-computer-bug-story/"
+    },
+    {
+     "name": "Smithsonian NMAH - Log Book With Computer Bug",
+     "url": "https://americanhistory.si.edu/collections/object/nmah_334663"
+    },
+    {
+     "name": "Wikipedia - Harvard Mark II",
+     "url": "https://en.wikipedia.org/wiki/Harvard_Mark_II"
+    },
+    {
+     "name": "Wikimedia Commons - First Computer Bug, 1947 (legenda do NHHC)",
+     "url": "https://commons.wikimedia.org/wiki/File:First_Computer_Bug,_1947.jpg"
+    }
+   ],
+   "myths": [
+    "Foi o primeiro bug da história da computação.",
+    "A palavra bug nasceu com a mariposa.",
+    "A palavra debugging nasceu com a mariposa.",
+    "Grace Hopper achou a mariposa pessoalmente.",
+    "Grace Hopper escreveu a anotação no caderno.",
+    "Grace Hopper inventou o termo bug.",
+    "O caso aconteceu em 1945.",
+    "O caderno está exposto no Smithsonian.",
+    "Os relés abriam e fechavam milhares de vezes por segundo."
+   ]
+  },
+  {
+   "id": "primeiro-email",
+   "subject": "o primeiro e-mail em rede",
+   "year": 1971,
+   "hook": "o primeiro e-mail entre dois computadores foi enviado em 1971, e nem quem mandou lembra o que dizia",
+   "context": "Em 1971, a ARPANET, rede financiada pelo Departamento de Defesa dos Estados Unidos, ligava universidades e centros de pesquisa. Já dava para deixar mensagem para quem usava o mesmo computador, mas não para alguém em outra máquina.",
+   "body": [
+    "Ray Tomlinson, engenheiro da empresa BBN, mandou a mensagem entre dois computadores lado a lado, ligados pela ARPANET.",
+    "Foi ele quem escolheu o arroba para separar o usuário da máquina, porque o símbolo não aparecia em nomes de usuário.",
+    "Ele disse que as mensagens de teste eram tão esquecíveis que ele esqueceu. Provavelmente era algo como QWERTYUIOP."
+   ],
+   "takeaway": "Segundo a consultoria Radicati, mais de 300 bilhões de e-mails circulam por dia no mundo. E o arroba continua com a função que Tomlinson deu a ele em 1971.",
+   "image_queries": [
+    "Ray Tomlinson",
+    "PDP-10",
+    "Interface Message Processor"
+   ],
+   "source": "Wikipedia (Ray Tomlinson, History of email) / Radicati Group",
+   "sources": [
+    {
+     "name": "Wikipedia - Ray Tomlinson",
+     "url": "https://en.wikipedia.org/wiki/Ray_Tomlinson"
+    },
+    {
+     "name": "Wikipedia - History of email",
+     "url": "https://en.wikipedia.org/wiki/History_of_email"
+    },
+    {
+     "name": "Wikipedia - ARPANET",
+     "url": "https://en.wikipedia.org/wiki/ARPANET"
+    },
+    {
+     "name": "Radicati Group - Email Statistics Report 2024-2028",
+     "url": "https://www.einpresswire.com/article/751597875/the-radicati-group-releases-email-statistics-report-2024-2028"
+    }
+   ],
+   "myths": [
+    "Foi o primeiro e-mail da história.",
+    "Ray Tomlinson inventou o correio eletrônico do zero.",
+    "A primeira mensagem dizia exatamente QWERTYUIOP.",
+    "A ARPANET era uma rede só militar.",
+    "O e-mail foi inventado em 1978 por outra pessoa.",
+    "Tomlinson inventou o símbolo arroba."
+   ]
+  },
+  {
+   "id": "primeiro-site",
+   "subject": "o primeiro site do mundo",
+   "year": 1990,
+   "hook": "o primeiro site do mundo ainda pode ser visitado",
+   "context": "No fim dos anos 80, a internet já existia, mas era usada principalmente em universidades e centros de pesquisa. Não havia páginas com links nem navegador.",
+   "body": [
+    "Tim Berners-Lee pôs a primeira página no ar em 20 de dezembro de 1990, no CERN, num computador NeXT. Ela explicava o que era a World Wide Web.",
+    "O endereço é info ponto cern ponto ch. A página original se perdeu. O que está lá é uma cópia de 1992, restaurada pelo CERN em 2013.",
+    "Ela não tem nenhuma imagem: é só texto e links."
+   ],
+   "takeaway": "Em 30 de abril de 1993, o CERN colocou o software da web em domínio público, sem cobrar royalties. Qualquer pessoa pôde usar a tecnologia para criar sites sem pagar licença ao CERN.",
+   "image_queries": [
+    "Tim Berners-Lee",
+    "NeXT Computer first web server",
+    "CERN"
+   ],
+   "source": "CERN (info.cern.ch) / Wikipedia",
+   "sources": [
+    {
+     "name": "Wikipedia - Info.cern.ch",
+     "url": "https://en.wikipedia.org/wiki/Info.cern.ch"
+    },
+    {
+     "name": "CERN - cópia restaurada da primeira página",
+     "url": "https://info.cern.ch/hypertext/WWW/TheProject.html"
+    },
+    {
+     "name": "The Register - CERN recreates first webpage (2013)",
+     "url": "https://www.theregister.com/2013/04/30/cern_recreates_first_webpage/"
+    },
+    {
+     "name": "CERN - home of the first website",
+     "url": "https://info.cern.ch/"
+    }
+   ],
+   "myths": [
+    "A página que está no ar é exatamente a original de 1990 ou 1991.",
+    "O primeiro site entrou no ar em 1991.",
+    "O site ficou no ar sem interrupção desde o começo.",
+    "Tim Berners-Lee inventou a internet.",
+    "Internet e web são a mesma coisa.",
+    "Sem o CERN, todo site pagaria licença até hoje."
+   ]
+  },
+  {
+   "id": "linux-hobby",
+   "subject": "o Linux",
+   "year": 1991,
+   "hook": "o Linux foi anunciado como um hobby que não seria grande nem profissional",
+   "context": "Em 1991, um Unix comercial para computador pessoal custava caro demais para um estudante. Um finlandês de 21 anos, da Universidade de Helsinque, resolveu escrever o próprio sistema.",
+   "body": [
+    "Em 25 de agosto de 1991, Linus Torvalds postou num grupo de discussão: estou fazendo um sistema operacional gratuito, só um hobby, não vai ser grande e profissional.",
+    "Hoje o Linux roda em todos os 500 supercomputadores mais rápidos do mundo e na maioria dos servidores de sites.",
+    "E todo celular Android usa o núcleo do Linux."
+   ],
+   "takeaway": "Desde 2005, mais de 15 mil programadores, de mais de 1.400 empresas, já contribuíram com o núcleo do Linux. A Linux Foundation o chama de maior projeto colaborativo da história da computação.",
+   "image_queries": [
+    "Linus Torvalds",
+    "University of Helsinki",
+    "Supercomputer"
+   ],
+   "source": "comp.os.minix, 1991 / TOP500 / Linux Foundation",
+   "sources": [
+    {
+     "name": "Wikipedia - History of Linux",
+     "url": "https://en.wikipedia.org/wiki/History_of_Linux"
+    },
+    {
+     "name": "Wikipedia - TOP500",
+     "url": "https://en.wikipedia.org/wiki/TOP500"
+    },
+    {
+     "name": "W3Techs - Linux usage statistics",
+     "url": "https://w3techs.com/technologies/details/os-linux"
+    },
+    {
+     "name": "Linux Foundation - 2017 Linux Kernel Report",
+     "url": "https://www.linuxfoundation.org/blog/blog/2017-linux-kernel-report-highlights-developers-roles-accelerating-pace-change"
+    },
+    {
+     "name": "Android Open Source Project - Kernel",
+     "url": "https://source.android.com/docs/core/architecture/kernel"
+    }
+   ],
+   "myths": [
+    "O Linux é feito principalmente por voluntários sem salário.",
+    "Linus Torvalds escolheu o nome Linux.",
+    "O Linux nasceu para concorrer com o Windows.",
+    "O Linux era comercial no começo.",
+    "O Linux roda em todos os servidores da internet.",
+    "Linux e GNU/Linux são exatamente a mesma coisa que o núcleo."
+   ]
+  },
+  {
+   "id": "ramac-tonelada",
+   "subject": "o primeiro disco rígido",
+   "year": 1956,
+   "hook": "o primeiro disco rígido comercial pesava cerca de uma tonelada e guardava 5 milhões de caracteres",
+   "context": "Antes dele, empresas guardavam dados em cartões perfurados e fitas magnéticas, que eram lidos em sequência para achar uma informação.",
+   "body": [
+    "O IBM 305 RAMAC, de 1956, tinha 50 discos de 61 centímetros empilhados, girando a 1.200 rotações por minuto dentro de um armário.",
+    "O sistema completo era alugado por 3.200 dólares por mês. Em megabytes, a capacidade dava menos de 4.",
+    "A unidade de discos era movida com empilhadeira."
+   ],
+   "takeaway": "Um cartão de memória de 1 terabyte, menor que uma unha, guarda centenas de milhares de vezes mais que o RAMAC.",
+   "image_queries": [
+    "IBM 305 RAMAC",
+    "IBM 350 disk storage unit",
+    "IBM 350 RAMAC disk mechanism"
+   ],
+   "source": "IBM / Computer History Museum",
+   "sources": [
+    {
+     "name": "Computer History Museum - First commercial hard disk drive shipped",
+     "url": "https://www.computerhistory.org/storageengine/first-commercial-hard-disk-drive-shipped/"
+    },
+    {
+     "name": "IBM History - RAMAC",
+     "url": "https://www.ibm.com/history/ramac"
+    },
+    {
+     "name": "Wikipedia - IBM 305 RAMAC",
+     "url": "https://en.wikipedia.org/wiki/IBM_305_RAMAC"
+    },
+    {
+     "name": "Wikipedia - IBM 350",
+     "url": "https://en.wikipedia.org/wiki/IBM_350"
+    }
+   ],
+   "myths": [
+    "Guardava exatamente 5 megabytes.",
+    "Pesava menos de uma tonelada.",
+    "5 megabytes não cabem nem uma foto de celular.",
+    "Um cartão de memória guarda milhões de vezes mais.",
+    "O RAMAC era vendido por 3 mil dólares.",
+    "Foi o primeiro armazenamento magnético da história."
+   ]
+  },
+  {
+   "id": "mouse-madeira",
+   "subject": "o mouse",
+   "year": 1964,
+   "hook": "o primeiro mouse de computador era de madeira",
+   "context": "Nos anos 60, quase todo mundo usava computador digitando comandos. Para apontar na tela, existia a caneta de luz, criada no MIT nos anos 50.",
+   "body": [
+    "Douglas Engelbart teve a ideia no SRI, na Califórnia, e o engenheiro Bill English construiu o protótipo em 1964: uma caixa de madeira com duas rodinhas perpendiculares embaixo.",
+    "Em 9 de dezembro de 1968, Engelbart apresentou o mouse numa demonstração em São Francisco que ficou conhecida como a mãe de todas as demos.",
+    "A patente ficou com o SRI, onde ele trabalhava, e Engelbart nunca recebeu royalties. Segundo ele, o SRI licenciou o mouse para a Apple por uns 40 mil dólares."
+   ],
+   "takeaway": "Na mesma apresentação, de 90 minutos, Engelbart mostrou hipertexto, várias janelas na tela, edição de texto em tempo real e teleconferência com tela compartilhada.",
+   "image_queries": [
+    "SRI Computer Mouse",
+    "Douglas Engelbart",
+    "The Mother of All Demos"
+   ],
+   "source": "SRI International / Wikipedia",
+   "sources": [
+    {
+     "name": "SRI International - The computer mouse and interactive computing",
+     "url": "https://www.sri.com/hoi/computer-mouse-and-interactive-computing/"
+    },
+    {
+     "name": "Wikipedia - Computer mouse",
+     "url": "https://en.wikipedia.org/wiki/Computer_mouse"
+    },
+    {
+     "name": "Wikipedia - Douglas Engelbart",
+     "url": "https://en.wikipedia.org/wiki/Douglas_Engelbart"
+    },
+    {
+     "name": "Wikipedia - Light pen",
+     "url": "https://en.wikipedia.org/wiki/Light_pen"
+    }
+   ],
+   "myths": [
+    "Engelbart construiu o mouse sozinho.",
+    "A Apple ou a Xerox inventou o mouse.",
+    "Antes do mouse não existia forma de apontar na tela.",
+    "O primeiro mouse tinha bolinha.",
+    "Engelbart ficou rico com o mouse.",
+    "Ele não ganhou royalties porque a patente expirou.",
+    "O evento se chamava a mãe de todas as demos desde o começo.",
+    "Steve Jobs visitou o SRI para copiar o mouse."
+   ]
+  },
+  {
+   "id": "kodak-digital",
+   "subject": "a primeira câmera digital",
+   "year": 1975,
+   "hook": "a primeira câmera digital foi criada na Kodak em 1975 e pesava quase 4 quilos",
+   "context": "Durante quase todo o século 20, a Kodak dominou o mercado de filme fotográfico.",
+   "body": [
+    "O engenheiro Steven Sasson montou o aparelho com a lente de uma filmadora Super 8 e gravava a foto numa fita cassete.",
+    "A imagem era em preto e branco, com 100 por 100 pixels, e levava 23 segundos para ser gravada.",
+    "Sasson conta que a reação que ouviu foi: é bonitinho, mas não conte para ninguém."
+   ],
+   "takeaway": "A Kodak investiu no digital e, em 2005, era a maior vendedora de câmeras digitais dos Estados Unidos. Mesmo assim, em janeiro de 2012, pediu recuperação judicial, e saiu dela em 2013.",
+   "image_queries": [
+    "Steven Sasson Kodak camera",
+    "Kodak Tower Rochester",
+    "cassette tape"
+   ],
+   "source": "Wikipedia (Steven Sasson, Kodak) / entrevistas de Steven Sasson",
+   "sources": [
+    {
+     "name": "Wikipedia - Steven Sasson",
+     "url": "https://en.wikipedia.org/wiki/Steven_Sasson"
+    },
+    {
+     "name": "Wikipedia - Kodak",
+     "url": "https://en.wikipedia.org/wiki/Kodak"
+    },
+    {
+     "name": "Forbes - How Kodak Failed (cita a frase de Sasson)",
+     "url": "https://www.forbes.com/sites/chunkamui/2012/01/18/how-kodak-failed/"
+    },
+    {
+     "name": "TechRadar - How Kodak invented the digital camera in 1975",
+     "url": "https://www.techradar.com/news/cameras/photography-video-capture/how-kodak-invented-the-digital-camera-in-1975-364822"
+    },
+    {
+     "name": "PetaPixel - estimativa da Rise Above Research para 2025",
+     "url": "https://petapixel.com/2025/06/18/the-number-of-photos-taken-in-2025-is-expected-to-exceed-two-trillion/"
+    }
+   ],
+   "myths": [
+    "A Kodak abandonou a câmera digital e nunca investiu no digital.",
+    "A Kodak faliu e fechou em 2012.",
+    "A primeira câmera digital fazia fotos coloridas.",
+    "A câmera gravava num cartão de memória ou disquete.",
+    "A diretoria inteira da Kodak rejeitou a invenção na hora.",
+    "Sasson foi demitido por causa da invenção."
+   ]
+  },
+  {
+   "id": "google-googol",
+   "subject": "o nome Google",
+   "year": 1997,
+   "hook": "o nome Google nasceu de um erro de digitação",
+   "context": "Larry Page e Sergey Brin criaram o buscador em Stanford, em 1996, com o nome BackRub.",
+   "body": [
+    "Segundo um relato publicado em Stanford, o colega Sean Anderson sugeriu googolplex, e Larry encurtou para googol, o número 1 seguido de 100 zeros. A ideia era lembrar uma quantidade enorme de dados.",
+    "Ao conferir se o domínio estava livre, Sean digitou google, com a grafia errada. Larry gostou, e o google ponto com foi registrado em 15 de setembro de 1997.",
+    "O erro ficou e virou uma das marcas mais valiosas do mundo."
+   ],
+   "takeaway": "Em 2025, o Google disse que recebe mais de 5 trilhões de buscas por ano. A sede se chama Googleplex, brincadeira com googolplex, um número ainda maior.",
+   "image_queries": [
+    "Larry Page",
+    "Sergey Brin",
+    "Googleplex"
+   ],
+   "source": "Stanford (David Koller, Origin of the name Google) / Google",
+   "sources": [
+    {
+     "name": "Stanford - Origin of the name Google (David Koller)",
+     "url": "https://graphics.stanford.edu/~dk/google_name_origin.html"
+    },
+    {
+     "name": "Wikipedia - History of Google",
+     "url": "https://en.wikipedia.org/wiki/History_of_Google"
+    },
+    {
+     "name": "Wikipedia - Googol",
+     "url": "https://en.wikipedia.org/wiki/Googol"
+    },
+    {
+     "name": "Search Engine Land - Google now sees more than 5 trillion searches per year",
+     "url": "https://searchengineland.com/google-5-trillion-searches-per-year-452928"
+    },
+    {
+     "name": "Interbrand - Best Global Brands 2025",
+     "url": "https://interbrand.com/best-global-brands/global/"
+    }
+   ],
+   "myths": [
+    "Larry Page digitou o nome errado no formulário de registro.",
+    "O erro aconteceu na hora de registrar o domínio.",
+    "O Google foi fundado em 1997.",
+    "Googol é um número inventado pelos fundadores do Google.",
+    "O Google responde a exatamente 8 bilhões de buscas por dia.",
+    "Googleplex é o número googolplex escrito errado de propósito pela empresa desde o início."
+   ]
+  },
+  {
+   "id": "youtube-zoo",
+   "subject": "o primeiro vídeo do YouTube",
+   "year": 2005,
+   "hook": "o primeiro vídeo do YouTube tem 19 segundos e é sobre elefantes",
+   "context": "Em 2004, os futuros fundadores do YouTube tiveram dificuldade para achar na internet vídeos de um assunto que todo mundo comentava, o show do intervalo do Super Bowl. Daí saiu a ideia de um site só para compartilhar vídeos.",
+   "body": [
+    "Foi postado em 23 de abril de 2005 por Jawed Karim, um dos três fundadores, com o título Me at the zoo, gravado no zoológico de San Diego.",
+    "Ele só diz que os elefantes têm trombas muito, muito compridas, e que isso é legal.",
+    "Um ano e meio depois, o Google anunciou a compra do YouTube por 1,65 bilhão de dólares, pagos em ações."
+   ],
+   "takeaway": "Hoje, segundo o próprio YouTube, sobem em média mais de 20 milhões de vídeos por dia. O vídeo dos elefantes continua no ar, com centenas de milhões de visualizações.",
+   "image_queries": [
+    "Jawed Karim",
+    "San Diego Zoo elephant",
+    "elephant trunk"
+   ],
+   "source": "YouTube / Wikipedia (Me at the zoo, History of YouTube)",
+   "sources": [
+    {
+     "name": "Wikipedia - Me at the zoo",
+     "url": "https://en.wikipedia.org/wiki/Me_at_the_zoo"
+    },
+    {
+     "name": "Wikipedia - History of YouTube",
+     "url": "https://en.wikipedia.org/wiki/History_of_YouTube"
+    },
+    {
+     "name": "YouTube Press",
+     "url": "https://blog.youtube/press/"
+    }
+   ],
+   "myths": [
+    "O primeiro vídeo foi postado por Chad Hurley ou Steve Chen.",
+    "O vídeo foi gravado no zoológico de San Francisco.",
+    "O Google pagou 1,65 bilhão em dinheiro.",
+    "O YouTube recebe exatamente 500 horas de vídeo por minuto hoje.",
+    "O vídeo foi apagado ou tirado do ar.",
+    "O YouTube foi fundado pelo Google."
+   ]
+  },
+  {
+   "id": "apple-terceiro-fundador",
+   "subject": "a Apple",
+   "year": 1976,
+   "hook": "a Apple teve um terceiro fundador, que saiu 12 dias depois e recebeu 800 dólares",
+   "context": "A Apple foi fundada em 1º de abril de 1976 por Steve Jobs, Steve Wozniak e um terceiro sócio que quase ninguém conhece.",
+   "body": [
+    "Ronald Wayne tinha 10% da sociedade e saiu 12 dias depois, com medo de responder pelas dívidas com os próprios bens.",
+    "Ele recebeu 800 dólares e, um ano depois, mais 1.500 para abrir mão de qualquer direito sobre a empresa.",
+    "Com a Apple valendo perto de 4 trilhões de dólares em 2026, 10% dariam centenas de bilhões no papel. A conta ignora que a fatia seria diluída ao longo dos anos."
+   ],
+   "takeaway": "Wayne diz que não se arrepende. Ele tinha casa e carro, e numa sociedade comum as dívidas da empresa podiam cair sobre ele. Para Wayne, foi a melhor decisão com a informação que tinha na época.",
+   "image_queries": [
+    "Ronald Wayne",
+    "Apple I",
+    "Steve Wozniak"
+   ],
+   "source": "Wikipedia (Ronald Wayne) / Computer History Museum / Fortune",
+   "sources": [
+    {
+     "name": "Wikipedia - Ronald Wayne",
+     "url": "https://en.wikipedia.org/wiki/Ronald_Wayne"
+    },
+    {
+     "name": "Computer History Museum - Celebrating Apple at 50",
+     "url": "https://computerhistory.org/blog/celebrating-apple-at-50/"
+    },
+    {
+     "name": "Fortune - Apple cofounder Ronald Wayne at 91 (abril de 2026)",
+     "url": "https://fortune.com/2026/04/27/apple-cofounder-ronald-wayne-missed-billionaire-opportunity-no-regrets-gen-z-advice-steve-jobs-steve-wozniak/"
+    }
+   ],
+   "myths": [
+    "Wayne vendeu sua parte por 800 dólares num acordo de venda de ações.",
+    "Wayne ainda é dono de 10% da Apple.",
+    "A fatia dele valeria hoje exatamente 10% do valor de mercado da Apple.",
+    "Wayne se arrepende e vive na miséria.",
+    "Wayne ficou menos de um dia na Apple.",
+    "Os três fundaram a Apple como empresa de capital aberto em 1976."
+   ]
+  },
+  {
+   "id": "wifi-nome",
+   "subject": "o Wi-Fi",
+   "year": 1999,
+   "hook": "Wi-Fi não significa nada",
+   "context": "No fim dos anos 90, aparelhos de rede sem fio de marcas diferentes nem sempre funcionavam juntos. Em 1999, seis empresas criaram uma aliança para resolver isso.",
+   "body": [
+    "Muita gente acha que é Wireless Fidelity, mas o nome foi criado em 1999 pela consultoria de marcas Interbrand.",
+    "Ele saiu de uma lista de dez propostas e foi pensado para lembrar Hi-Fi, sinônimo de som de qualidade.",
+    "O nome técnico que ele substituiu era IEEE 802.11b Direct Sequence."
+   ],
+   "takeaway": "Um nome curto tomou o lugar de um código técnico que ninguém decorava. Só em 2019, cerca de 3 bilhões de aparelhos com Wi-Fi chegaram ao mercado.",
+   "image_queries": [
+    "Wi-Fi",
+    "Wireless router",
+    "IEEE 802.11"
+   ],
+   "source": "Wi-Fi Alliance",
+   "sources": [
+    {
+     "name": "Wikipedia - Wi-Fi",
+     "url": "https://en.wikipedia.org/wiki/Wi-Fi"
+    },
+    {
+     "name": "Wikipedia - Wi-Fi Alliance",
+     "url": "https://en.wikipedia.org/wiki/Wi-Fi_Alliance"
+    },
+    {
+     "name": "Mental Floss - What does Wi-Fi stand for",
+     "url": "https://www.mentalfloss.com/technology/what-does-wi-fi-stand-for"
+    },
+    {
+     "name": "Boing Boing - Phil Belanger, 2005",
+     "url": "https://boingboing.net/2005/11/08/wifi-isnt-short-for.html"
+    }
+   ],
+   "myths": [
+    "Wi-Fi significa Wireless Fidelity",
+    "Wi-Fi é uma sigla técnica criada pelo IEEE",
+    "O nome Wi-Fi foi escolhido por engenheiros",
+    "O IEEE 802.11 e o nome Wi-Fi nasceram juntos em 1999 (o padrão é de 1997)"
+   ]
+  },
+  {
+   "id": "iphone-copiar-colar",
+   "subject": "o primeiro iPhone",
+   "year": 2007,
+   "hook": "o primeiro iPhone não tinha copiar e colar",
+   "context": "Em 2007, as maiores fabricantes de celular do mundo eram Nokia, Motorola e Samsung. Só a Nokia tinha quase 38% do mercado.",
+   "body": [
+    "O primeiro iPhone também não tinha App Store, nem câmera frontal, nem 3G.",
+    "Copiar e colar só chegou dois anos depois do lançamento.",
+    "Mesmo assim, ele vendeu 1 milhão de unidades em 74 dias e foi eleito a invenção do ano pela revista Time."
+   ],
+   "takeaway": "Muita coisa chegou depois, por atualização de software. A App Store veio em julho de 2008, e o copiar e colar em junho de 2009.",
+   "image_queries": [
+    "iPhone (1st generation)",
+    "Steve Jobs",
+    "Macworld 2007"
+   ],
+   "source": "Apple",
+   "sources": [
+    {
+     "name": "Wikipedia - iPhone (1st generation)",
+     "url": "https://en.wikipedia.org/wiki/IPhone_(1st_generation)"
+    },
+    {
+     "name": "Apple Newsroom - iPhone 3GS e iPhone OS 3.0 (2009)",
+     "url": "https://www.apple.com/newsroom/2009/06/08Apple-Announces-the-New-iPhone-3GS-The-Fastest-Most-Powerful-iPhone-Yet/"
+    },
+    {
+     "name": "Time - Invention of the Year 2007",
+     "url": "https://content.time.com/time/specials/2007/article/0,28804,1677329_1678542_1677891,00.html"
+    },
+    {
+     "name": "TechCrunch - Gartner, vendas de celulares em 2007",
+     "url": "https://techcrunch.com/2008/02/27/over-a-billion-mobile-phones-sold-in-2007/"
+    }
+   ],
+   "myths": [
+    "O primeiro iPhone já tinha App Store",
+    "A BlackBerry liderava o mercado mundial de celulares em 2007",
+    "O primeiro iPhone tinha 3G",
+    "O primeiro iPhone gravava vídeo",
+    "O iPhone foi o primeiro celular com tela sensível ao toque"
+   ]
+  },
+  {
+   "id": "bluetooth-viking",
+   "subject": "o Bluetooth",
+   "year": 1998,
+   "hook": "Bluetooth leva o nome de um rei viking",
+   "context": "Nos anos 90, Ericsson, Nokia, Intel, IBM e Toshiba se juntaram para criar um padrão comum de conexão sem fio de curta distância.",
+   "body": [
+    "Harald Dente Azul foi o rei que, no século 10, reinou sobre a Dinamarca e a Noruega.",
+    "Jim Kardach, da Intel, sugeriu o nome porque o rei uniu povos, e a ideia era unir computadores e celulares.",
+    "O logotipo junta duas runas antigas, que equivalem às letras H e B, as iniciais dele."
+   ],
+   "takeaway": "Bluetooth era só um nome provisório. As opções oficiais esbarraram em problemas de marca, e o provisório ficou. Em 2025, mais de 5 bilhões de aparelhos com Bluetooth chegaram ao mercado.",
+   "image_queries": [
+    "Harald Bluetooth",
+    "Bluetooth",
+    "Jelling stones"
+   ],
+   "source": "Bluetooth SIG",
+   "sources": [
+    {
+     "name": "Bluetooth SIG - Origin of the Bluetooth name",
+     "url": "https://www.bluetooth.com/about-us/bluetooth-origin/"
+    },
+    {
+     "name": "Wikipedia - Bluetooth",
+     "url": "https://en.wikipedia.org/wiki/Bluetooth"
+    },
+    {
+     "name": "Wikipedia - Harald Bluetooth",
+     "url": "https://en.wikipedia.org/wiki/Harald_Bluetooth"
+    },
+    {
+     "name": "ABI Research - Bluetooth shipments 2025-2030",
+     "url": "https://www.abiresearch.com/press/iot-connectivity-market-rebounds-as-bluetooth-shipments-march-toward-8.1-billion-by-2030-and-wi-fi-8-enters-the-spotlight"
+    }
+   ],
+   "myths": [
+    "O rei tinha dentes azuis de tanto comer mirtilo",
+    "Harald Dente Azul inventou alguma tecnologia de comunicação",
+    "Bluetooth foi o nome escolhido desde o início",
+    "Ninguém conseguiu pensar num nome melhor",
+    "Mais de 5 bilhões de aparelhos com Bluetooth são vendidos todo ano (o dado é de aparelhos enviados ao mercado em 2025)"
+   ]
+  },
+  {
+   "id": "captcha-livros",
+   "subject": "o CAPTCHA",
+   "year": 2007,
+   "hook": "o CAPTCHA de duas palavras usava as suas respostas para digitalizar livros e jornais antigos",
+   "context": "O CAPTCHA existe para separar humanos de robôs. O pesquisador Luis von Ahn, da Universidade Carnegie Mellon, percebeu que milhões de pessoas gastavam alguns segundos nisso todo dia.",
+   "body": [
+    "O reCAPTCHA, lançado em 2007, mostrava duas palavras: uma que o sistema já conhecia e outra que o computador não conseguia ler em textos escaneados.",
+    "Cada resposta contava como um voto. Quando pessoas diferentes digitavam a mesma coisa, a palavra era aceita.",
+    "Foi assim que o sistema ajudou a digitalizar o arquivo do jornal New York Times e, depois, livros do Google Books."
+   ],
+   "takeaway": "Só no primeiro ano, foram 440 milhões de palavras, o equivalente a mais de 17 mil livros. Depois vieram as fotos de faixa de pedestre e semáforo, que o Google diz usar para melhorar o Google Maps.",
+   "image_queries": [
+    "reCAPTCHA",
+    "Luis von Ahn",
+    "CAPTCHA"
+   ],
+   "source": "Carnegie Mellon / Google",
+   "sources": [
+    {
+     "name": "Wikipedia - reCAPTCHA",
+     "url": "https://en.wikipedia.org/wiki/ReCAPTCHA"
+    },
+    {
+     "name": "Science - reCAPTCHA: Human-Based Character Recognition via Web Security Measures (2008)",
+     "url": "https://www.science.org/doi/10.1126/science.1160379"
+    },
+    {
+     "name": "National Geographic - web security software to transcribe old books",
+     "url": "https://www.nationalgeographic.com/science/article/using-our-powers-for-good-how-web-security-software-can-help-to-transcribe-old-books"
+    },
+    {
+     "name": "TechCrunch - Google acquires reCAPTCHA (2009)",
+     "url": "https://techcrunch.com/2009/09/16/google-acquires-recaptcha-to-power-scanning-for-google-books-and-google-news/"
+    }
+   ],
+   "myths": [
+    "Todo CAPTCHA serve para digitalizar livros",
+    "O reCAPTCHA digitalizou milhões de livros",
+    "As fotos de semáforo e faixa de pedestre treinam carros autônomos",
+    "Uma única resposta já confirmava a leitura da palavra",
+    "Luis von Ahn criou o reCAPTCHA sozinho"
+   ]
+  },
+  {
+   "id": "senha-123456",
+   "subject": "senhas",
+   "year": 2025,
+   "hook": "a senha mais usada do mundo em 2025 foi 123456",
+   "context": "Todo ano, a empresa NordPass analisa senhas expostas em vazamentos de dados. Na lista de 2025, com dados de 44 países, 123456 ficou em primeiro.",
+   "body": [
+    "Depois dela vieram admin, 12345678, 123456789 e 12345.",
+    "No Brasil, a ordem muda: admin ficou em primeiro, e 123456 em segundo.",
+    "Segundo a NordPass, senhas assim são quebradas em menos de um segundo."
+   ],
+   "takeaway": "Um gerenciador de senhas cria uma senha diferente para cada site e guarda tudo para você. Existem opções gratuitas.",
+   "image_queries": [
+    "Password",
+    "Computer keyboard",
+    "Computer security"
+   ],
+   "source": "NordPass, lista de 2025",
+   "sources": [
+    {
+     "name": "NordPass - Most common passwords list",
+     "url": "https://nordpass.com/most-common-passwords-list/"
+    },
+    {
+     "name": "Canaltech - senhas mais usadas no Brasil em 2025",
+     "url": "https://canaltech.com.br/seguranca/conheca-as-senhas-mais-usadas-no-brasil-em-2025-e-por-recorte-de-geracoes/"
+    },
+    {
+     "name": "CNBC - most common passwords of 2022",
+     "url": "https://www.cnbc.com/2022/11/23/most-common-passwords-of-2022-make-sure-yours-isnt-on-the-list.html"
+    },
+    {
+     "name": "Wikipedia - List of the most common passwords",
+     "url": "https://en.wikipedia.org/wiki/List_of_the_most_common_passwords"
+    }
+   ],
+   "myths": [
+    "123456 lidera o ranking todo ano há mais de dez anos",
+    "'senha' está entre as senhas mais usadas no Brasil",
+    "123456789 é a segunda senha mais usada do mundo",
+    "Os números do ranking são contas de pessoas diferentes",
+    "123456 também é a senha mais usada no Brasil"
+   ]
+  },
+  {
+   "id": "ada-lovelace",
+   "subject": "Ada Lovelace",
+   "year": 1843,
+   "hook": "o primeiro programa de computador publicado foi escrito por uma mulher, em 1843",
+   "context": "Em 1843 não existia computador. Existia um projeto: a Máquina Analítica de Charles Babbage, uma calculadora mecânica programável que nunca foi construída por completo.",
+   "body": [
+    "Ada Lovelace publicou um algoritmo para essa máquina calcular os números de Bernoulli, uma sequência usada em matemática.",
+    "Ela escreveu que a máquina poderia trabalhar com outras coisas além de números, e até compor música. Isso foi cerca de cem anos antes dos primeiros computadores eletrônicos.",
+    "Existe uma linguagem de programação com o nome dela, a Ada, usada em aviões, trens e outros sistemas críticos."
+   ],
+   "takeaway": "A ideia dela, de que uma máquina de calcular poderia trabalhar com outras coisas além de números, é o que um computador faz hoje.",
+   "image_queries": [
+    "Ada Lovelace",
+    "Analytical Engine",
+    "Charles Babbage"
+   ],
+   "source": "Science Museum, Londres",
+   "sources": [
+    {
+     "name": "Wikipedia - Ada Lovelace",
+     "url": "https://en.wikipedia.org/wiki/Ada_Lovelace"
+    },
+    {
+     "name": "Wikipedia - Note G",
+     "url": "https://en.wikipedia.org/wiki/Note_G"
+    },
+    {
+     "name": "Wikipedia - Ada (programming language)",
+     "url": "https://en.wikipedia.org/wiki/Ada_(programming_language)"
+    }
+   ],
+   "myths": [
+    "Ada Lovelace construiu um computador",
+    "A Máquina Analítica foi construída e funcionou",
+    "É indiscutível que Ada foi a primeira pessoa a programar",
+    "Ada previu que máquinas criariam arte",
+    "O programa da Nota G estava perfeito (ele tinha um erro de variáveis trocadas na operação 4)"
+   ]
+  },
+  {
+   "id": "eniac",
+   "subject": "o ENIAC",
+   "year": 1946,
+   "hook": "o primeiro computador eletrônico de uso geral pesava 27 toneladas",
+   "context": "O ENIAC foi construído durante a Segunda Guerra para calcular tabelas de tiro de artilharia. Ficou pronto no fim de 1945 e foi apresentado ao público em fevereiro de 1946.",
+   "body": [
+    "Ele ocupava uma sala de cerca de 9 por 15 metros e tinha mais de 17 mil válvulas.",
+    "Consumia 150 quilowatts e fazia 5 mil somas por segundo.",
+    "As primeiras programadoras dele foram seis mulheres, que nem foram convidadas para a cerimônia de apresentação."
+   ],
+   "takeaway": "Um cálculo de balística que levava 12 horas à mão saía em 30 segundos. Décadas depois, a Universidade da Pensilvânia recriou o ENIAC inteiro num chip de poucos milímetros.",
+   "image_queries": [
+    "ENIAC",
+    "Vacuum tube",
+    "University of Pennsylvania"
+   ],
+   "source": "Universidade da Pensilvânia",
+   "sources": [
+    {
+     "name": "Wikipedia - ENIAC",
+     "url": "https://en.wikipedia.org/wiki/ENIAC"
+    },
+    {
+     "name": "Penn Engineering - ENIAC",
+     "url": "https://www.engineering.upenn.edu/about/history-heritage/eniac/"
+    },
+    {
+     "name": "Penn Almanac - ENIAC turns 80",
+     "url": "https://almanac.upenn.edu/articles/penns-eniac-the-worlds-first-electronic-computer-turns-80"
+    }
+   ],
+   "myths": [
+    "As luzes da Filadélfia piscavam quando o ENIAC era ligado",
+    "O ENIAC ocupava 167 metros quadrados",
+    "O ENIAC só ficou pronto em 1946",
+    "As programadoras foram homenageadas na apresentação de 1946",
+    "Um celular faz bilhões de vezes mais contas usando menos energia que uma lâmpada (sem fonte)"
+   ]
+  },
+  {
+   "id": "edison-bug",
+   "subject": "a palavra bug",
+   "year": 1878,
+   "hook": "a palavra bug já era usada por Thomas Edison em 1878",
+   "context": "Muita gente atribui a palavra bug à mariposa achada num computador em 1947. A história é mais antiga.",
+   "body": [
+    "Numa carta de 1878, Edison chamou de bugs as pequenas falhas e dificuldades que apareciam nas invenções dele.",
+    "Ele já usava o termo em 1873, quando trabalhava num telégrafo que mandava quatro mensagens pelo mesmo fio.",
+    "A mariposa de 1947 foi colada no caderno de registro com uma piada: primeiro caso real de bug encontrado."
+   ],
+   "takeaway": "A palavra bug veio das oficinas do século 19. Já debug só aparece por escrito em 1945, num texto sobre motores de avião.",
+   "image_queries": [
+    "Thomas Edison",
+    "Phonograph",
+    "Menlo Park"
+   ],
+   "source": "Cartas de Thomas Edison, 1878",
+   "sources": [
+    {
+     "name": "Wikipedia - Bug (engineering)",
+     "url": "https://en.wikipedia.org/wiki/Bug_(engineering)"
+    },
+    {
+     "name": "IEEE Spectrum - Did You Know? Edison Coined the Term Bug (2013)",
+     "url": "https://spectrum.ieee.org/the-institute/ieee-history/did-you-know-edison-coined-the-term-bug"
+    },
+    {
+     "name": "Smithsonian NMAH - Log Book With Computer Bug",
+     "url": "https://americanhistory.si.edu/collections/object/nmah_334663"
+    }
+   ],
+   "myths": [
+    "Grace Hopper inventou a palavra bug",
+    "Grace Hopper encontrou a mariposa",
+    "A palavra bug nasceu com a mariposa de 1947",
+    "Debug e patch já eram usados no século 19",
+    "Edison foi o primeiro a usar bug para falhas (há registro em revista de telegrafia de 1875 e usos dele desde 1873)"
+   ]
+  },
+  {
+   "id": "windows95-stones",
+   "subject": "o Windows 95",
+   "year": 1995,
+   "hook": "a Microsoft pagou os Rolling Stones para usar Start Me Up no lançamento do Windows 95",
+   "context": "Em 1993, menos de um quarto das casas nos Estados Unidos tinha computador. Em 24 de agosto de 1995, a Microsoft transformou o lançamento do Windows 95 num grande evento.",
+   "body": [
+    "A música Start Me Up foi a trilha dos comerciais, por causa do novo botão Iniciar. O valor pago nunca foi confirmado: os números divulgados vão de 3 a 14 milhões de dólares.",
+    "Houve fila na porta de lojas à meia-noite para comprar um sistema operacional.",
+    "Foi o Windows 95 que estreou o botão Iniciar e a barra de tarefas, que existem até hoje."
+   ],
+   "takeaway": "Foram 7 milhões de cópias vendidas nas cinco primeiras semanas. Em 1997, mais de um terço das casas americanas já tinha computador.",
+   "image_queries": [
+    "Windows 95",
+    "Start menu",
+    "Microsoft"
+   ],
+   "source": "Microsoft",
+   "sources": [
+    {
+     "name": "Microsoft - Launch of Windows 95",
+     "url": "https://news.microsoft.com/announcement/launch-of-windows-95/"
+    },
+    {
+     "name": "Wikipedia - Windows 95",
+     "url": "https://en.wikipedia.org/wiki/Windows_95"
+    },
+    {
+     "name": "US Census Bureau - Computer Use in the United States, October 1997",
+     "url": "https://www.census.gov/content/dam/Census/library/publications/1999/demo/p20-522.pdf"
+    }
+   ],
+   "myths": [
+    "A Microsoft pagou exatamente 14 milhões de dólares aos Rolling Stones (o valor nunca foi confirmado)",
+    "Em 1995, computador era só coisa de escritório",
+    "O Windows 95 levou o computador para dentro das casas pela primeira vez",
+    "A Microsoft pagou os Rolling Stones para tocar ao vivo no lançamento (não verificado)"
+   ]
+  },
+  {
+   "id": "simbolo-power",
+   "subject": "o botão de ligar",
+   "year": 1973,
+   "hook": "o símbolo de ligar e desligar tem quatro versões, e cada uma quer dizer uma coisa",
+   "context": "Palavras como on e off não funcionam em todos os idiomas. Por isso, a Comissão Eletrotécnica Internacional, a IEC, definiu símbolos gráficos para aparelhos.",
+   "body": [
+    "Uma linha sozinha quer dizer ligado. Um círculo sozinho quer dizer desligado.",
+    "A linha dentro de um círculo fechado marca um botão que liga e desliga. Já a linha entrando num círculo aberto, o mais comum, indica modo de espera.",
+    "Esses símbolos aparecem na edição de 1973 da norma, hoje chamada IEC 60417, e já eram usados antes disso."
+   ],
+   "takeaway": "Muita gente lê o símbolo como o 1 e o 0 do código binário. É uma leitura popular, mas a norma descreve só uma linha e um círculo.",
+   "image_queries": [
+    "Power symbol",
+    "Power button",
+    "IEC 60417"
+   ],
+   "source": "IEC 60417",
+   "sources": [
+    {
+     "name": "Wikipedia - Power symbol",
+     "url": "https://en.wikipedia.org/wiki/Power_symbol"
+    },
+    {
+     "name": "MoMA - IEC Power symbol, 1973",
+     "url": "https://www.moma.org/collection/works/188563"
+    },
+    {
+     "name": "Unicode - Proposal to encode power symbols (L2/14-009)",
+     "url": "https://www.unicode.org/L2/L2014/14009-power-symbol.pdf"
+    }
+   ],
+   "myths": [
+    "O símbolo de ligar é oficialmente o 0 e o 1 do sistema binário",
+    "A linha dentro do círculo fechado significa modo de espera",
+    "O símbolo foi inventado em 1973",
+    "O símbolo está em todo aparelho eletrônico do planeta",
+    "O botão de espera desliga totalmente o aparelho"
+   ]
+  },
+  {
+   "id": "primeiro-banner",
+   "subject": "o primeiro anúncio da internet",
+   "year": 1994,
+   "hook": "o primeiro anúncio em banner da internet teve 44% de cliques",
+   "context": "Em 1994, a web tinha poucos milhares de sites e ninguém sabia como ganhar dinheiro com ela.",
+   "body": [
+    "Foi da AT&T, no site da revista HotWired, e dizia: você já clicou com o mouse aqui? Você vai.",
+    "Hoje um banner comum tem menos de 0,1% de cliques.",
+    "Aquele anúncio inaugurou a publicidade online que sustenta a internet gratuita."
+   ],
+   "takeaway": "Publicidade digital movimenta mais de 600 bilhões de dólares por ano. Tudo começou com uma frase e 44% de curiosidade.",
+   "image_queries": [
+    "Web banner",
+    "HotWired",
+    "AT&T"
+   ],
+   "source": "Wired / HotWired"
+  },
+  {
+   "id": "nintendo-baralho",
+   "subject": "a Nintendo",
+   "year": 1889,
+   "hook": "a Nintendo foi fundada em 1889 para fazer cartas de baralho",
+   "context": "A Nintendo é mais antiga que o avião, o rádio e a Coca-Cola em garrafa.",
+   "body": [
+    "A empresa produzia cartas hanafuda, pintadas à mão, no Japão.",
+    "Antes dos videogames, ela tentou táxis, hotéis por hora e macarrão instantâneo.",
+    "Só em 1983 lançou o console que virou o NES."
+   ],
+   "takeaway": "Mario, Zelda e Pokémon vieram de uma empresa que passou quase um século procurando o que fazer. Reinvenção, às vezes, leva gerações.",
+   "image_queries": [
+    "Hanafuda",
+    "Nintendo",
+    "Nintendo Entertainment System"
+   ],
+   "source": "Nintendo"
+  },
+  {
+   "id": "python-monty",
+   "subject": "a linguagem Python",
+   "year": 1991,
+   "hook": "a linguagem Python não tem nome de cobra",
+   "context": "Python é hoje a linguagem de programação mais usada do mundo, base de quase tudo em inteligência artificial e ciência de dados.",
+   "body": [
+    "Guido van Rossum batizou a linguagem em homenagem ao grupo de humor Monty Python, em 1991.",
+    "Ele queria um nome curto, único e um pouco misterioso.",
+    "Os exemplos da documentação oficial usam spam e eggs, referência a um esquete do grupo."
+   ],
+   "takeaway": "A cobra no logotipo veio depois, porque todo mundo pensava no animal. O nome errado virou a marca.",
+   "image_queries": [
+    "Guido van Rossum",
+    "Python (programming language)",
+    "Monty Python"
+   ],
+   "source": "Documentação oficial do Python"
+  },
+  {
+   "id": "amazon-cadabra",
+   "subject": "a Amazon",
+   "year": 1994,
+   "hook": "a Amazon quase se chamou Cadabra",
+   "context": "Em 1994, Jeff Bezos largou um emprego em Wall Street para vender livros pela internet, numa garagem em Seattle.",
+   "body": [
+    "Ele registrou o nome Cadabra, mas o advogado dele entendeu cadáver ao telefone.",
+    "O nome Amazon foi escolhido por ser o maior rio do mundo e por começar com A, o que ajudava em listas alfabéticas.",
+    "Ela começou vendendo só livros."
+   ],
+   "takeaway": "Hoje a Amazon vende de tudo e ainda é dona da maior infraestrutura de nuvem do mundo, que sustenta boa parte dos sites que você acessa.",
+   "image_queries": [
+    "Amazon (company)",
+    "Jeff Bezos",
+    "Amazon River"
+   ],
+   "source": "The Everything Store, Brad Stone"
+  },
+  {
+   "id": "bug-milenio",
+   "subject": "o bug do milênio",
+   "year": 2000,
+   "hook": "o bug do milênio custou mais de 300 bilhões de dólares para o mundo",
+   "context": "Nos anos 60 e 70, memória era caríssima. Para economizar, programadores guardavam o ano com dois dígitos: 99 em vez de 1999.",
+   "body": [
+    "Na virada para 2000, sistemas antigos leriam 00 como 1900.",
+    "Empresas e governos passaram anos revisando código para corrigir.",
+    "A virada foi tranquila justamente porque o trabalho foi feito, mas muita gente achou que era só exagero."
+   ],
+   "takeaway": "É o paradoxo da prevenção: quando funciona, parece que o problema nunca existiu. Um problema parecido está marcado para 2038, em sistemas de 32 bits.",
+   "image_queries": [
+    "Year 2000 problem",
+    "Mainframe computer",
+    "COBOL"
+   ],
+   "source": "Gartner / Senado dos EUA"
+  },
+  {
+   "id": "primeiro-sms",
+   "subject": "o primeiro SMS",
+   "year": 1992,
+   "hook": "o primeiro SMS da história foi Feliz Natal",
+   "context": "Em 1992, celular servia só para ligar. A ideia de mandar texto pelo telefone era vista como sem utilidade.",
+   "body": [
+    "Neil Papworth enviou a mensagem em 3 de dezembro de 1992, de um computador para o celular de um executivo da Vodafone.",
+    "O celular ainda não conseguia responder.",
+    "O limite de 160 caracteres foi definido depois de estudar cartões-postais e mensagens de telex."
+   ],
+   "takeaway": "O SMS virou a base de tudo que veio depois: mensageiros, códigos de verificação, alertas de banco. Trilhões são enviados por ano.",
+   "image_queries": [
+    "SMS",
+    "Vodafone",
+    "Orbitel 901"
+   ],
+   "source": "Vodafone"
+  },
+  {
+   "id": "pizza-bitcoin",
+   "subject": "a pizza mais cara da história",
+   "year": 2010,
+   "hook": "duas pizzas foram compradas por 10 mil bitcoins",
+   "context": "Em 2010, o bitcoin tinha um ano de vida e nenhum uso no mundo real. Ninguém sabia se aquilo valia alguma coisa.",
+   "body": [
+    "Em maio, Laszlo Hanyecz ofereceu 10 mil bitcoins para quem entregasse duas pizzas na casa dele.",
+    "Na época, isso valia uns US$ 41.",
+    "Hoje essa quantia valeria centenas de milhões de dólares, e o dia virou o Bitcoin Pizza Day."
+   ],
+   "takeaway": "Foi a primeira compra com bitcoin registrada. Sem alguém topar usar, a moeda nunca teria saído do papel.",
+   "image_queries": [
+    "Bitcoin",
+    "Pizza",
+    "Cryptocurrency"
+   ],
+   "source": "Bitcointalk, 2010"
+  },
+  {
+   "id": "cabos-submarinos",
+   "subject": "os cabos submarinos",
+   "year": 2024,
+   "hook": "mais de 99% do tráfego da internet entre continentes passa por cabos no fundo do mar",
+   "context": "Muita gente imagina que a internet viaja por satélite. Não é o que acontece.",
+   "body": [
+    "São centenas de cabos com a espessura de uma mangueira de jardim, estendidos por navios.",
+    "Satélite responde por uma fração minúscula.",
+    "Tubarões já morderam cabos, e âncoras de navio são a maior causa de rompimento."
+   ],
+   "takeaway": "O Brasil se conecta ao mundo por pouco mais de uma dezena de cabos que chegam em Fortaleza, Rio e Santos. Quando um rompe, a velocidade do país inteiro sente.",
+   "image_queries": [
+    "Submarine communications cable",
+    "Cable layer ship",
+    "Optical fiber"
+   ],
+   "source": "TeleGeography"
+  },
+  {
+   "id": "deep-blue",
+   "subject": "o Deep Blue",
+   "year": 1997,
+   "hook": "um computador venceu o campeão mundial de xadrez em 1997",
+   "context": "Nos anos 90, xadrez era visto como o teste definitivo de inteligência. Vencer o campeão mundial parecia impossível para uma máquina.",
+   "body": [
+    "O Deep Blue, da IBM, derrotou Garry Kasparov numa série de seis partidas.",
+    "Kasparov acusou a IBM de trapaça e pediu revanche, que nunca aconteceu.",
+    "A máquina analisava 200 milhões de posições por segundo."
+   ],
+   "takeaway": "Hoje um programa de xadrez de celular joga melhor que o Deep Blue. O que era o limite da inteligência artificial virou aplicativo gratuito.",
+   "image_queries": [
+    "Deep Blue (chess computer)",
+    "Garry Kasparov",
+    "IBM"
+   ],
+   "source": "IBM"
+  },
+  {
+   "id": "voyager-memoria",
+   "subject": "a sonda Voyager",
+   "year": 1977,
+   "hook": "a sonda Voyager 1 ainda funciona com menos memória que uma calculadora",
+   "context": "A Voyager 1 foi lançada em 1977 para estudar Júpiter e Saturno. Deveria durar cinco anos.",
+   "body": [
+    "Ela tem cerca de 70 kilobytes de memória e já está a mais de 24 bilhões de quilômetros da Terra.",
+    "Um sinal de rádio leva mais de 22 horas para chegar até ela.",
+    "Em 2024, engenheiros contornaram um chip com defeito reescrevendo o código à distância."
+   ],
+   "takeaway": "É o objeto feito por humanos mais distante que existe, e continua mandando dados com tecnologia dos anos 70. Simplicidade também é engenharia.",
+   "image_queries": [
+    "Voyager 1",
+    "Voyager Golden Record",
+    "Deep Space Network"
+   ],
+   "source": "NASA JPL"
+  },
+  {
+   "id": "apollo-computador",
+   "subject": "o computador da Apollo",
+   "year": 1969,
+   "hook": "o computador que levou o homem à Lua tinha 4 kilobytes de memória de trabalho",
+   "context": "Em 1969, computadores eram armários. A NASA precisava de um que coubesse numa cápsula e não falhasse.",
+   "body": [
+    "O Apollo Guidance Computer rodava a cerca de 1 megahertz, e a memória era costurada à mão com fios de cobre.",
+    "O software foi liderado por Margaret Hamilton, que popularizou o termo engenharia de software.",
+    "Um carregador de celular moderno tem mais poder de processamento."
+   ],
+   "takeaway": "Na descida da Apollo 11, o computador sobrecarregou e o software de Hamilton priorizou o pouso. Sem isso, a missão teria sido abortada.",
+   "image_queries": [
+    "Apollo Guidance Computer",
+    "Margaret Hamilton (software engineer)",
+    "Apollo 11"
+   ],
+   "source": "NASA / MIT"
+  },
+  {
+   "id": "virus-brain",
+   "subject": "o primeiro vírus de PC",
+   "year": 1986,
+   "hook": "o primeiro vírus de PC tinha o telefone dos criadores dentro do código",
+   "context": "Em 1986, programas eram vendidos em disquete e copiados livremente. Dois irmãos no Paquistão queriam impedir a pirataria do software deles.",
+   "body": [
+    "O vírus Brain foi feito por Basit e Amjad Alvi e se espalhava por disquetes.",
+    "Eles colocaram nome, endereço e telefone no código, para as vítimas ligarem.",
+    "Ele deu a volta ao mundo, e a loja deles existe até hoje."
+   ],
+   "takeaway": "Hoje são centenas de milhares de novos programas maliciosos por dia. O antivírus nasceu como resposta a esse disquete.",
+   "image_queries": [
+    "Brain (computer virus)",
+    "Floppy disk",
+    "IBM Personal Computer"
+   ],
+   "source": "F-Secure"
+  },
+  {
+   "id": "hello-world",
+   "subject": "o Hello World",
+   "year": 1978,
+   "hook": "o Hello World tem quase 50 anos",
+   "context": "Todo programador começa pelo mesmo programa: um que só escreve olá, mundo na tela.",
+   "body": [
+    "O exemplo apareceu num tutorial interno da Bell Labs em 1974 e ficou famoso no livro de C de Kernighan e Ritchie, em 1978.",
+    "Desde então, é o primeiro programa de quase todo programador do mundo.",
+    "Existe versão em centenas de linguagens, inclusive em algumas feitas só de piada."
+   ],
+   "takeaway": "A linguagem C daquele livro ainda está na base do Windows, do Linux, do Android e do iOS. O tutorial de 1974 nunca saiu de moda.",
+   "image_queries": [
+    "Brian Kernighan",
+    "The C Programming Language",
+    "Dennis Ritchie"
+   ],
+   "source": "Bell Labs"
+  },
+  {
+   "id": "qr-code",
+   "subject": "o QR code",
+   "year": 1994,
+   "hook": "o QR code foi criado para rastrear peças de carro",
+   "context": "O código de barras comum guarda pouca informação e precisa ser lido na posição certa. Uma fábrica japonesa precisava de algo melhor.",
+   "body": [
+    "A Denso Wave, do grupo Toyota, criou o código em 1994 para acompanhar componentes na linha de montagem.",
+    "Ele guarda até 7 mil dígitos e funciona mesmo com 30% da imagem danificada.",
+    "A empresa abriu mão de cobrar pela patente, e por isso ele está em todo lugar."
+   ],
+   "takeaway": "Cardápio, Pix, passagem de avião: o QR code só se espalhou porque uma empresa decidiu não cobrar. Padrão aberto vence padrão fechado.",
+   "image_queries": [
+    "QR code",
+    "Denso",
+    "Toyota"
+   ],
+   "source": "Denso Wave"
+  },
+  {
+   "id": "webcam-cafe",
+   "subject": "a primeira webcam",
+   "year": 1991,
+   "hook": "a primeira webcam do mundo foi criada para vigiar uma cafeteira",
+   "context": "Em 1991, no laboratório de computação de Cambridge, a cafeteira ficava num corredor longe da maioria das salas.",
+   "body": [
+    "Pesquisadores cansaram de subir a escada e encontrar a jarra vazia.",
+    "Colocaram uma câmera apontada para a cafeteira, transmitindo para a rede interna.",
+    "Em 1993 ela foi para a web, e a cafeteira foi leiloada por milhares de libras em 2001."
+   ],
+   "takeaway": "Boa parte da tecnologia nasce assim: alguém resolvendo um incômodo pequeno. As câmeras de videochamada de hoje descendem dessa cafeteira.",
+   "image_queries": [
+    "Trojan Room coffee pot",
+    "Webcam",
+    "University of Cambridge"
+   ],
+   "source": "Universidade de Cambridge"
+  },
+  {
+   "id": "instagram-13",
+   "subject": "a compra do Instagram",
+   "year": 2012,
+   "hook": "o Instagram tinha 13 funcionários quando foi vendido por 1 bilhão de dólares",
+   "context": "Em 2012, o Instagram tinha dois anos, 30 milhões de usuários e nenhuma receita.",
+   "body": [
+    "O Facebook comprou o aplicativo por US$ 1 bilhão, em dinheiro e ações.",
+    "Na época, muita gente disse que era loucura.",
+    "Hoje o Instagram vale muitas vezes isso e sustenta boa parte da Meta."
+   ],
+   "takeaway": "Foi uma das compras mais lucrativas da história dos negócios. E abriu a discussão sobre grandes empresas comprando concorrentes antes que cresçam.",
+   "image_queries": [
+    "Instagram",
+    "Kevin Systrom",
+    "Meta Platforms"
+   ],
+   "source": "Meta"
+  },
+  {
+   "id": "nokia-papel",
+   "subject": "a Nokia",
+   "year": 1865,
+   "hook": "a Nokia começou como uma fábrica de papel",
+   "context": "A Nokia foi fundada em 1865, na Finlândia, às margens de um rio, para produzir celulose.",
+   "body": [
+    "Ela fez papel, botas de borracha e cabos antes de qualquer celular.",
+    "Nos anos 2000, era a maior fabricante de celulares do mundo.",
+    "Perdeu a virada do smartphone e vendeu a divisão de telefones para a Microsoft em 2014."
+   ],
+   "takeaway": "A Nokia continua existindo, hoje como uma das maiores fornecedoras de redes 5G do mundo. Empresas sobrevivem quando trocam de produto a tempo.",
+   "image_queries": [
+    "Nokia",
+    "Nokia 3310",
+    "Paper mill Finland"
+   ],
+   "source": "Nokia"
+  },
+  {
+   "id": "linux-top500",
+   "subject": "os supercomputadores",
+   "year": 2017,
+   "hook": "todos os 500 supercomputadores mais rápidos do mundo rodam Linux",
+   "context": "Duas vezes por ano, a lista TOP500 classifica os computadores mais potentes do planeta, usados em clima, remédios e física.",
+   "body": [
+    "Desde 2017, a lista não tem um único sistema que não seja Linux.",
+    "Windows e outros sistemas já apareceram lá, mas foram sumindo.",
+    "É o mesmo núcleo que roda no seu celular Android e na maioria dos servidores da internet."
+   ],
+   "takeaway": "Software gratuito e aberto virou o padrão onde o desempenho é decisivo. Isso diz muito sobre o que vale na infraestrutura do mundo.",
+   "image_queries": [
+    "Supercomputer",
+    "Frontier (supercomputer)",
+    "TOP500"
+   ],
+   "source": "TOP500.org"
+  },
+  {
+   "id": "botao-turbo",
+   "subject": "o botão Turbo",
+   "year": 1990,
+   "hook": "o botão Turbo dos PCs antigos deixava o computador mais lento",
+   "context": "Nos anos 80 e 90, muitos jogos eram feitos para a velocidade exata de um processador. Em máquinas mais novas, rodavam rápido demais.",
+   "body": [
+    "Com o Turbo desligado, o PC reduzia a velocidade para o jogo não ficar impossível.",
+    "Com o Turbo ligado, ele apenas funcionava na velocidade normal.",
+    "Ou seja: o botão não acelerava nada; ele só desativava o freio."
+   ],
+   "takeaway": "Foi uma solução de compatibilidade que virou lenda. Hoje o problema é resolvido por software, mas o princípio é o mesmo: programa velho precisa de ambiente controlado.",
+   "image_queries": [
+    "Turbo button",
+    "IBM PC compatible",
+    "Intel 80486"
+   ],
+   "source": "Computer History Museum"
+  },
+  {
+   "id": "symbolics-dominio",
+   "subject": "o primeiro domínio .com",
+   "year": 1985,
+   "hook": "o primeiro domínio ponto com foi registrado em 1985 e ainda existe",
+   "context": "Em 1985, o sistema de nomes da internet tinha acabado de ser criado. Endereço era número, e quase ninguém precisava de um nome.",
+   "body": [
+    "Foi o symbolics ponto com, de uma empresa de computadores para inteligência artificial, em 15 de março de 1985.",
+    "No fim daquele ano, só 6 empresas tinham domínio ponto com.",
+    "Hoje são mais de 150 milhões de endereços ponto com registrados."
+   ],
+   "takeaway": "O domínio foi comprado em 2009 por um investidor e virou peça de museu online. Nomes na internet viraram um mercado de bilhões.",
+   "image_queries": [
+    "Symbolics",
+    "Domain Name System",
+    "Internet"
+   ],
+   "source": "Verisign"
+  },
+  {
+   "id": "javascript-10-dias",
+   "subject": "o JavaScript",
+   "year": 1995,
+   "hook": "o JavaScript foi criado em 10 dias",
+   "context": "Em 1995, a Netscape precisava de uma linguagem simples para deixar páginas da web interativas, e precisava rápido, antes da Microsoft.",
+   "body": [
+    "Brendan Eich escreveu a primeira versão em 10 dias.",
+    "O nome foi escolhido por marketing para pegar carona na fama do Java, embora sejam linguagens diferentes.",
+    "Hoje é a linguagem mais usada do mundo e roda em todo site que você abre."
+   ],
+   "takeaway": "Decisões tomadas naqueles 10 dias ainda causam bugs 30 anos depois. É o exemplo mais claro de como pressa vira dívida técnica.",
+   "image_queries": [
+    "Brendan Eich",
+    "JavaScript",
+    "Netscape Navigator"
+   ],
+   "source": "Mozilla"
+  },
+  {
+   "id": "git-linus",
+   "subject": "o Git",
+   "year": 2005,
+   "hook": "o Git foi criado em poucos dias, depois de uma briga",
+   "context": "Em 2005, o Linux perdeu o direito de usar a ferramenta que organizava as mudanças no código, feita por uma empresa.",
+   "body": [
+    "Linus Torvalds escreveu o Git em cerca de duas semanas.",
+    "Em poucos dias ele já gerenciava o código do kernel.",
+    "Hoje o GitHub, construído em cima dele, tem mais de 100 milhões de desenvolvedores."
+   ],
+   "takeaway": "Praticamente todo software moderno, de aplicativo de banco a jogo, é versionado com Git. Uma briga de licença criou a ferramenta mais usada da programação.",
+   "image_queries": [
+    "Git",
+    "Linus Torvalds",
+    "GitHub"
+   ],
+   "source": "Linux Foundation / GitHub"
+  },
+  {
+   "id": "samsung-peixe",
+   "subject": "a Samsung",
+   "year": 1938,
+   "hook": "a Samsung começou vendendo peixe seco e macarrão",
+   "context": "A Samsung foi fundada em 1938, na Coreia, como uma pequena empresa de comércio de alimentos.",
+   "body": [
+    "Ela vendia peixe seco, frutas e macarrão para a China.",
+    "Só entrou em eletrônicos em 1969, fazendo televisores em preto e branco.",
+    "Hoje é a maior fabricante de chips de memória e de telas do mundo."
+   ],
+   "takeaway": "A Samsung fabrica a tela e a memória de concorrentes, inclusive do iPhone. Quem controla o componente ganha mesmo quando o rival vende.",
+   "image_queries": [
+    "Samsung",
+    "Samsung Electronics",
+    "Lee Byung-chul"
+   ],
+   "source": "Samsung"
+  },
+  {
+   "id": "ctrl-alt-del",
+   "subject": "o Ctrl Alt Del",
+   "year": 1981,
+   "hook": "o Ctrl Alt Del foi criado para ninguém apertar sem querer",
+   "context": "Em 1981, a IBM lançava o PC, e os engenheiros precisavam de um jeito rápido de reiniciar a máquina durante os testes.",
+   "body": [
+    "David Bradley criou o atalho para reiniciar sem desligar da tomada.",
+    "Ele escolheu teclas longe umas das outras justamente para ninguém acionar por acidente.",
+    "A frase famosa dele: eu inventei, mas o Bill Gates tornou famoso."
+   ],
+   "takeaway": "Bradley diz que levou cinco minutos para programar. Quarenta anos depois, o atalho ainda abre a tela de segurança do Windows.",
+   "image_queries": [
+    "Control-Alt-Delete",
+    "IBM Personal Computer",
+    "David Bradley (engineer)"
+   ],
+   "source": "IBM"
+  },
+  {
+   "id": "firefox-panda",
+   "subject": "o logo do Firefox",
+   "year": 2004,
+   "hook": "o logo do Firefox não é uma raposa",
+   "context": "O Firefox nasceu em 2002 como um projeto leve dentro da Mozilla, e trocou de nome duas vezes por conflito de marca.",
+   "body": [
+    "Firefox é um dos nomes em inglês do panda-vermelho, um animal que vive no Himalaia.",
+    "O navegador se chamava Phoenix, depois Firebird.",
+    "A raposa de fogo no logo é só a interpretação do designer."
+   ],
+   "takeaway": "O Firefox foi o navegador que quebrou o domínio do Internet Explorer em 2004 e forçou a concorrência que resultou no Chrome.",
+   "image_queries": [
+    "Red panda",
+    "Firefox",
+    "Mozilla"
+   ],
+   "source": "Mozilla"
+  },
+  {
+   "id": "dynatac",
+   "subject": "o primeiro celular",
+   "year": 1983,
+   "hook": "o primeiro celular custava quase 4 mil dólares e a bateria durava 30 minutos",
+   "context": "A primeira ligação de um celular foi feita em 1973, mas o aparelho só chegou às lojas dez anos depois.",
+   "body": [
+    "O Motorola DynaTAC 8000X, de 1983, pesava quase 800 gramas e levava 10 horas para carregar.",
+    "Guardava 30 números na agenda.",
+    "Em dinheiro de hoje, custaria mais de US$ 10 mil."
+   ],
+   "takeaway": "Hoje existem mais linhas de celular do que pessoas no mundo. Em quatro décadas, o produto de luxo virou o objeto mais comum do planeta.",
+   "image_queries": [
+    "Motorola DynaTAC",
+    "Martin Cooper (inventor)",
+    "Mobile phone"
+   ],
+   "source": "Motorola"
+  },
+  {
+   "id": "spam-carne",
+   "subject": "a palavra spam",
+   "year": 1970,
+   "hook": "a palavra spam vem de carne enlatada",
+   "context": "Spam é uma marca de presunto em lata dos Estados Unidos, famosa nos anos 40 por aparecer em toda refeição.",
+   "body": [
+    "Num esquete do Monty Python, garçons repetem spam sem parar até ninguém aguentar.",
+    "Nos anos 90, usuários da internet usaram a palavra para mensagens repetidas e indesejadas.",
+    "O nome pegou e virou termo técnico."
+   ],
+   "takeaway": "Quase metade de todo e-mail enviado no mundo é spam. Os filtros que separam isso são um dos usos mais antigos de aprendizado de máquina.",
+   "image_queries": [
+    "Spam (food)",
+    "Monty Python",
+    "Email spam"
+   ],
+   "source": "Hormel Foods / Monty Python"
+  },
+  {
+   "id": "android-doces",
+   "subject": "as versões do Android",
+   "year": 2019,
+   "hook": "as versões do Android tinham nome de doce em ordem alfabética",
+   "context": "O Android foi lançado em 2008 e, por dez anos, cada versão ganhou um apelido de sobremesa.",
+   "body": [
+    "Cupcake, Donut, Eclair, Froyo, Gingerbread, Honeycomb, Ice Cream Sandwich, Jelly Bean, KitKat, Lollipop, Marshmallow, Nougat, Oreo e Pie.",
+    "A partir do Android 10, em 2019, o Google parou com os apelidos públicos.",
+    "Internamente, os nomes de sobremesa continuam."
+   ],
+   "takeaway": "O Android está em mais de 3 bilhões de aparelhos. É o sistema operacional mais usado do mundo, à frente do Windows.",
+   "image_queries": [
+    "Android (operating system)",
+    "Android KitKat",
+    "Google"
+   ],
+   "source": "Google"
+  },
+  {
+   "id": "primeira-foto-web",
+   "subject": "a primeira foto da web",
+   "year": 1992,
+   "hook": "a primeira foto publicada na web foi de uma banda de comédia do CERN",
+   "context": "Em 1992, a web só mostrava texto. Ninguém tinha testado colocar uma imagem numa página.",
+   "body": [
+    "Tim Berners-Lee subiu a foto do grupo Les Horribles Cernettes para testar o suporte a imagens.",
+    "A foto foi editada no Photoshop 1.0, num Macintosh.",
+    "Elas cantavam músicas sobre física de partículas."
+   ],
+   "takeaway": "Hoje mais de 3 bilhões de imagens são compartilhadas por dia. A web visual começou com uma banda de físicas se divertindo.",
+   "image_queries": [
+    "Les Horribles Cernettes",
+    "CERN",
+    "Tim Berners-Lee"
+   ],
+   "source": "CERN"
+  },
+  {
+   "id": "tela-azul-ballmer",
+   "subject": "a tela azul do Windows",
+   "year": 1992,
+   "hook": "a tela azul do Windows 3.1 foi escrita por Steve Ballmer",
+   "context": "A tela azul de erro do Windows é uma das imagens mais reconhecidas da computação. O texto dela tem autor.",
+   "body": [
+    "O texto da tela de Ctrl Alt Del do Windows 3.1 foi escrito por Ballmer, que depois virou CEO da Microsoft.",
+    "O Windows 8 trocou o visual por uma carinha triste.",
+    "O Windows 11 mostra um QR code para você buscar a solução."
+   ],
+   "takeaway": "Em 2024, uma atualização defeituosa de segurança derrubou 8,5 milhões de computadores no mundo com essa tela, parando aeroportos e hospitais.",
+   "image_queries": [
+    "Blue screen of death",
+    "Steve Ballmer",
+    "Windows 3.1"
+   ],
+   "source": "Raymond Chen, Microsoft"
+  }
+ ]
+}

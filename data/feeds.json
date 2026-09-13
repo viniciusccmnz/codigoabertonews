@@ -1,0 +1,40 @@
+{
+  "_comment": "Fontes sem chave. lang=pt vira roteiro; lang=en so mede calor (mesma historia em varias redacoes = viral) e nao vira roteiro, porque nao traduzimos sem IA. weight ajusta a pontuacao.",
+  "feeds": [
+    {"name": "Tecnoblog", "url": "https://tecnoblog.net/feed/", "lang": "pt", "category": "tech_news", "weight": 1.0},
+    {"name": "Olhar Digital", "url": "https://olhardigital.com.br/feed/", "lang": "pt", "category": "tech_news", "weight": 1.0},
+    {"name": "Canaltech", "url": "https://canaltech.com.br/rss/", "lang": "pt", "category": "tech_news", "weight": 0.9},
+    {"name": "TecMundo", "url": "https://rss.tecmundo.com.br/feed", "lang": "pt", "category": "tech_news", "weight": 0.9},
+    {"name": "G1 Tecnologia", "url": "https://g1.globo.com/rss/g1/tecnologia/", "lang": "pt", "category": "tech_news", "weight": 1.15},
+    {"name": "Convergencia Digital", "url": "https://www.convergenciadigital.com.br/rss", "lang": "pt", "category": "tech_news", "weight": 0.6},
+    {"name": "Mundo Conectado", "url": "https://mundoconectado.com.br/feed/", "lang": "pt", "category": "tech_news", "weight": 0.7},
+    {"name": "Hardware.com.br", "url": "https://www.hardware.com.br/feed/", "lang": "pt", "category": "tech_news", "weight": 0.7},
+    {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "lang": "en", "category": "tech_news", "weight": 1.0},
+    {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index", "lang": "en", "category": "tech_news", "weight": 1.0},
+    {"name": "TechCrunch", "url": "https://techcrunch.com/feed/", "lang": "en", "category": "tech_news", "weight": 1.0},
+    {"name": "Engadget", "url": "https://www.engadget.com/rss.xml", "lang": "en", "category": "tech_news", "weight": 0.8},
+    {"name": "BleepingComputer", "url": "https://www.bleepingcomputer.com/feed/", "lang": "en", "category": "story", "weight": 1.0},
+    {"name": "Wired", "url": "https://www.wired.com/feed/rss", "lang": "en", "category": "tech_news", "weight": 0.8},
+    {"name": "9to5Mac", "url": "https://9to5mac.com/feed/", "lang": "en", "category": "tech_news", "weight": 0.7},
+    {"name": "The Register", "url": "https://www.theregister.com/headlines.atom", "lang": "en", "category": "tech_news", "weight": 0.8},
+    {"name": "BBC Technology", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml", "lang": "en", "category": "tech_news", "weight": 1.0},
+    {"name": "The Guardian Tech", "url": "https://www.theguardian.com/uk/technology/rss", "lang": "en", "category": "tech_news", "weight": 0.9},
+    {"name": "Hacker News", "url": "https://hnrss.org/frontpage?points=120", "lang": "en", "category": "tech_news", "weight": 1.2},
+    {"name": "Reddit r/technology", "url": "https://www.reddit.com/r/technology/top/.rss?t=day", "lang": "en", "category": "tech_news", "weight": 1.2}
+  ],
+  "story_keywords": ["vazamento", "vazou", "ataque", "hacker", "invas", "apagão", "apagao", "fora do ar", "falha", "bug", "golpe", "fraude", "multa", "processo", "condena", "proib", "bloque", "derrub", "queda", "incidente", "prejuízo", "prejuizo", "polêmica", "polemica", "explod", "recall", "incêndio", "incendio", "roub", "sequestr"],
+  "polemic": {
+    "demiss": 3, "demite": 3, "layoff": 3, "corte de": 2, "processo": 2, "processa": 3, "lawsuit": 3, "sued": 3, "multa": 2, "fine": 1,
+    "proib": 3, "proíb": 3, "ban": 2, "banid": 3, "bloque": 2, "vazamento": 3, "vazou": 3, "leak": 3, "breach": 3, "hacker": 3, "ataque": 2, "hack": 2,
+    "golpe": 3, "scam": 3, "fraud": 3, "preço": 2, "preco": 2, "price": 2, "mais caro": 3, "aumento": 2, "reajuste": 3, "monopol": 2, "antitrust": 2,
+    "censur": 3, "espion": 3, "spy": 3, "surveillance": 3, "vigilância": 3, "privacidade": 3, "privacy": 3, "substitui": 3, "replace": 2, "emprego": 3, "jobs": 2,
+    "musk": 2, "openai": 2, "chatgpt": 2, "apple": 1, "iphone": 2, "google": 1, "meta": 1, "whatsapp": 2, "instagram": 1, "tiktok": 2, "pix": 2, "nubank": 2,
+    "anatel": 2, "governo": 2, "stf": 2, "senado": 1, "regulament": 2, "lei": 1, "falha": 2, "fora do ar": 3, "outage": 3, "recall": 2, "explod": 3,
+    "polêmica": 3, "polemica": 3, "backlash": 3, "controvers": 3, "cancel": 1, "trump": 2, "tarifa": 2, "tariff": 2, "china": 1, "guerra": 2, "war": 1,
+    "morte": 2, "morre": 2, "died": 2, "acidente": 2, "crash": 2, "bilhõ": 2, "bilhoes": 2, "billion": 2, "recorde": 2, "record": 1, "grátis": 2, "gratis": 2, "free": 1,
+    "fim d": 2, "acabou": 2, "shutdown": 2, "encerra": 2, "obrigat": 2, "mandatory": 2, "senha": 2, "password": 2, "criança": 2, "menores": 2, "kids": 2,
+    "vício": 2, "addict": 2, "deepfake": 3, "nude": 3, "pornô": 2, "porn": 2, "bilionário": 2, "billionaire": 2, "zuckerberg": 2, "bezos": 2, "altman": 2
+  },
+  "commercial": ["review", "análise", "analise", "vale a pena", "valem a pena", "promoção", "promocao", "cupom", "oferta", "desconto", "black friday", "unboxing", "como usar", "dicas", "melhor ", "melhores", "top 10", "guia", "tutorial", "comparativo", "hands-on", "deal", "deals", "sale", "best ", " off", "menor preço", "menor preco", "mercado livre", "magalu", "shopee", "aliexpress", "amazon.com", "frete", "por menos de", "baratinho", "custo-benefício", "custo-beneficio", "ranking", "qual comprar", "modelos que"],
+  "heat_hours": 48
+}
