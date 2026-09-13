@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head><meta charset="UTF-8"><title>Codigo Aberto News - Autorizacao TikTok</title>
+<style>
+body{font-family:sans-serif;max-width:600px;margin:60px auto;color:#222;text-align:center}
+#code{font-family:monospace;background:#f0f0f0;padding:12px;border-radius:6px;word-break:break-all;font-size:14px;margin:16px 0}
+button{background:#000;color:#fff;border:none;padding:10px 24px;border-radius:6px;cursor:pointer;font-size:15px}
+</style>
+</head>
+<body>
+<h2>Autorizacao concluida</h2>
+<p id="msg">Copiando o codigo de autorizacao...</p>
+<div id="code"></div>
+<button onclick="copy()">Copiar codigo</button>
+<p style="color:#888;font-size:13px;margin-top:24px">Cole este codigo no terminal onde o comando tiktok-login esta esperando.</p>
+<script>
+var params = new URLSearchParams(window.location.search);
+var code = params.get('code');
+var err = params.get('error');
+if(err){
+  document.getElementById('msg').textContent = 'Erro: ' + (params.get('error_description') || err);
+} else if(code) {
+  document.getElementById('msg').textContent = 'Codigo recebido. Copie e cole no terminal:';
+  document.getElementById('code').textContent = code;
+} else {
+  document.getElementById('msg').textContent = 'Nenhum codigo encontrado na URL.';
+}
+function copy(){
+  navigator.clipboard.writeText(code||'').then(function(){alert('Copiado!')});
+}
+</script>
+</body></html>

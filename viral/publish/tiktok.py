@@ -42,7 +42,7 @@ AUTH_URL = "https://www.tiktok.com/v2/auth/authorize/"
 TOKEN_URL = "https://open.tiktokapis.com/v2/oauth/token/"
 API = "https://open.tiktokapis.com/v2/post/publish"
 SCOPES = "user.info.basic,video.upload,video.publish"
-DEFAULT_REDIRECT = "https://papiro.work/tiktok"
+DEFAULT_REDIRECT = "https://viniciusccmnz.github.io/codigoabertonews/tiktok"
 
 TOKEN_FILE = CACHE / "tiktok_token.json"
 LOG_FILE = CACHE / "tiktok_publish.log"
